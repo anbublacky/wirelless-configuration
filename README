@@ -1,0 +1,4 @@
+Wireless Configuration : Using pygtk
+
+This is a pygtk project to configure the wireless for ubuntu 10.04.This 
+will alter the file under /etc/network/interfaces.
